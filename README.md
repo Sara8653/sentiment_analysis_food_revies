@@ -1,4 +1,4 @@
-# sentiment_analysis_food_revies
+# sentiment_analysis_food_reviews
 This repository contains a comprehensive sentiment analysis project using python in jupyter notebook and various libraries. The project includes:
 
 @Data collection and preprocessing using pandas and NLTK
